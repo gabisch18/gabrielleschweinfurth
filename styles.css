@@ -1,0 +1,280 @@
+html {
+    margin: 0;
+    padding: 0;
+    background-image: url(Images/2588790.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+#Me {
+    text-align: center;
+    padding: 20px;
+}
+#Me img {
+    margin: 10px;
+    border-radius: 4px;
+    padding: 5px;
+    background-color: indianred;
+}
+h1 {
+    margin: 10px;
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 3em;
+    color: indianred;
+    text-align: center;
+    background-color: white;
+    border: solid;
+    border-radius: 20px;
+    border-color: indianred;
+}
+h2 {
+    font-family: cursive;
+    color: indianred;
+    font-size: 2.3em;
+    text-align: center;
+    margin-bottom: 0;
+}
+h3 {
+    font-family: cursive;
+    color: indianred;
+    margin: 5px;
+    font-size: 30px;
+    text-align: center;
+    
+}
+h4 {
+    font-family: cursive;
+    text-align: center;
+    color: indianred;
+    margin-top: 0;
+    font-size: 20px;
+}
+nav {
+    overflow: hidden;
+    font-family: cursive;
+    font-size: 20px;
+    color: dimgray;
+    text-align: center;
+    display: inline-block;
+    line-height: 7px;
+    background-color: white;
+    border: solid;
+    border-radius: 20px;
+    border-color: indianred;
+}
+nav a {
+    float: left;
+  font-size: 25px;
+  color: white;
+  text-align: center;
+  padding: 20px 16px;
+  text-decoration: none;
+}
+.dropdown {
+   float: left;
+    overflow: hidden;
+}
+.dropdown .dropbtn {
+    font-size: 25px;  
+  border: none;
+  outline: none;
+  color: dimgray;
+  background-color: inherit;
+  font-family: inherit;
+  margin-left: 15px;
+}
+nav a:hover, .dropdown:hover .dropbtn {
+    background-color: white;
+}
+.dropdown-content {
+    display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+    border-radius: 4px;
+    border: solid 3px indianred;
+}
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+    color: dimgray;
+}
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+p {
+    font-family: monospace;
+    color: indianred;
+    text-align: center;
+    font-size: 25px;
+}
+.gallery {
+    padding: 10px;
+    text-align: center;
+}
+.g img:hover {
+    opacity: 0.7;
+}
+.g img {
+    margin: 10px;
+    border-radius: 4px;
+    padding: 5px;
+    background-color: indianred;
+}
+.g {
+    flex: 13.33%;
+    padding: 5px;
+    display: inline-block;
+}
+.glitch-embed-wrap {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding: 5px;
+    margin-bottom: 45px;
+    border-radius: 4px;
+    background-color: indianred;
+}
+.plantmom {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-bottom: 45px;
+}
+#Anajah {
+    text-align: center;
+    margin: 10px;
+    border: 1px dimgrey;
+}
+#Anajah img {
+    border-radius: 4px;
+    padding: 5px;
+    background-color: indianred;
+    margin-bottom: 20px;
+}
+#Amelia {
+    text-align: center;
+    margin: 10px;
+    border: 1px dimgrey;
+}
+#Amelia img {
+    border-radius: 4px;
+    padding: 5px;
+    background-color: indianred;
+    margin-bottom: 20px;
+}
+#Blue {
+    text-align: center;
+    margin: 10px;
+    border: 1px dimgrey;
+}
+#Blue img {
+    border-radius: 4px;
+    padding: 5px;
+    background-color: indianred;
+    margin-bottom: 20px;
+}
+#Untitled {
+    text-align: center;
+    margin: 10px;
+    border: 1px dimgrey;
+}
+#Untitled img {
+    border-radius: 4px;
+    padding: 5px;
+    background-color: indianred;
+    margin-bottom: 20px;
+}
+#Studies {
+    text-align: center;
+    margin: 10px;
+    border: 1px dimgrey;
+}
+#Studies img {
+    border-radius: 4px;
+    padding: 5px;
+    background-color: indianred;
+    margin-bottom: 20px;
+}
+#wip1 {
+    padding: 10px;
+    text-align: center
+}
+#wip1 img:nth-child(1) {
+    margin: 10px;
+    border-radius: 4px;
+    padding: 5px;
+    background-color: indianred;
+}
+#wip1 img:nth-child(2) {
+    margin: 10px;
+    border-radius: 4px;
+    padding: 5px;
+    background-color: indianred;
+}
+#wip1 img:nth-child(3) {
+    margin: 10px;
+    border-radius: 4px;
+    padding: 5px;
+    background-color: indianred;
+}
+#wip2 {
+    padding: 10px;
+    text-align: center;
+}
+#wip2 img:nth-child(1) {
+    margin: 10px;
+    border-radius: 4px;
+    padding: 5px;
+    background-color: indianred;
+}
+#wip2 img:nth-child(2) {
+    margin: 10px;
+    border-radius: 4px;
+    padding: 5px;
+    background-color: indianred;
+}
+.AboutContent img{
+    margin: 10px;
+    border-radius: 5000px;
+    padding: 5px;
+    background-color: indianred;
+}
+.Plants img{
+    margin: 10px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 5px;
+}
+.AboutContent {
+    margin: 20px;
+    padding: 5px;
+}
+.AboutMe {
+    padding-left: 50px;
+    padding-right: 50px;
+    display: flex;
+}
+form {
+    text-align: center;
+}
+footer {
+    text-align: center;
+    border-top: double;
+    border-width: medium;
+    border-color: indianred;
+    padding: 10px;
+
+}
